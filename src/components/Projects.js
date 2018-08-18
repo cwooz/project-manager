@@ -16,12 +16,7 @@ class Projects extends Component {
     // <h1>Project Manager</h1>
     // {this.props.test}
 
-    return (
-      <div className="Projects">
-        <h1>Project Manager</h1>
-        {projectItems}
-      </div>
-    );
+    return <div className="Projects">{projectItems}</div>;
   }
 }
 
