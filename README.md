@@ -2,4 +2,4 @@
 
 # Simple React App for practicing fundamentals
 
-![alt text](https://farm2.staticflickr.com/1881/30234022198_b60dd3d7f5_o.jpg)
+![alt text](https://farm2.staticflickr.com/1857/44118306191_2b6b926eb2_o.jpg)
